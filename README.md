@@ -1,5 +1,5 @@
-# hardhat-goerli
-## Hardhat project template for Goerli network
+# hardhat-goerli-js
+## Hardhat js project template for Goerli network
 
 Add your **GOERLI PRIVATE KEY** and your **API KEY (INFURA, ALCHEMY...)** in ``hardhat.config.js`` and run hardhat commands. Use a wallet private key dedicated only to testing.
 

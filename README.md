@@ -7,7 +7,7 @@ Add your **GOERLI PRIVATE KEY** and your **API KEY (INFURA, ALCHEMY...)** in ``h
 
 ## Sample Hardhat Project
 
-![Hardhate : Getting Started](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
+[Hardhat : Getting Started](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
